@@ -51,7 +51,6 @@ Follow the interactive prompts to:
 3. Select the app to extract
 4. Choose output filename and location (or use defaults)
 
-![Watch the video]()
 ⚠️ This script is tested on iPhone X v16.0.3 only, issue might arise for different iOS version.
 
 ## 🛠 How It Works
