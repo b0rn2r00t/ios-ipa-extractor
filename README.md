@@ -50,7 +50,8 @@ Follow the interactive prompts to:
 2. Provide SSH username (default is 'root') and password
 3. Select the app to extract
 4. Choose output filename and location (or use defaults)
-![Watch the video](https://github.com/b0rn2r00t/ios-ipa-extractor/blob/4243879e3fb44e48338fb86d037125f287f21ae5/Usage.mp4)
+
+![Watch the video]()
 ⚠️ This script is tested on iPhone X v16.0.3 only, issue might arise for different iOS version.
 
 ## 🛠 How It Works
