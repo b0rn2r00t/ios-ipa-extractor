@@ -51,9 +51,6 @@ Follow the interactive prompts to:
 3. Select the app to extract
 4. Choose output filename and location (or use defaults)
 
-<img width="815" alt="01-Usage" src="https://github.com/user-attachments/assets/778c3f53-7b68-40df-8f05-16f248b2d022">
-
-
 ⚠️ This script is tested on iPhone X v16.0.3 only, issue might arise for different iOS version.
 
 ## 🛠 How It Works
@@ -63,6 +60,8 @@ Follow the interactive prompts to:
 4. **Extract**: The script packages the selected app into an IPA file on the device.
 5. **Download**: The IPA file is downloaded to your specified location with a progress bar.
 6. **Cleanup**: Temporary files on the iOS device are removed automatically.
+
+<img width="815" alt="01-Usage" src="https://github.com/user-attachments/assets/778c3f53-7b68-40df-8f05-16f248b2d022">
 
 ## 🔒 Security
 
