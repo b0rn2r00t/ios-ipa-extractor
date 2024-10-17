@@ -93,7 +93,7 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 📞 Contact
 
-Your Name - [@b0rn2r00t](https://x.com/b0rn2r00t)
+B0rn2r00t - [@b0rn2r00t](https://x.com/b0rn2r00t)
 
 Project Link: [https://github.com/b0rn2r00t/ios-ipa-extractor](https://github.com/b0rn2r00t/ios-ipa-extractor)
 
